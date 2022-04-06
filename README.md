@@ -98,8 +98,3 @@ Installation is an optional step since the built binary can be used as-is withou
 
 This project is licensed under the <b>GNU GPLv3+</b> license, a copy of which can be found in the `LICENSE.txt` file.
 
-## Support
-
-Users looking for support should file an issue in the official [GoldenDict issue tracker](https://github.com/goldendict/goldendict/issues),
-or even better: submit a [pull request](https://github.com/goldendict/goldendict/pulls) if you have a fix available.
-General questions should be asked on the [official GoldenDict forum](http://goldendict.org/forum/).
